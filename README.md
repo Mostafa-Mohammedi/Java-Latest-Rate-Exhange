@@ -3,7 +3,7 @@
 Dette er et backend prosjekt som leser fixer.io sitt latest rate endpoint og returnerer valuta verdier fra GBP, EUR og USD mot NOK kroner.
 <br/>
 
-##Viktig
+## Viktig
 Man må ha en API nøkkel for Fixer.io for å kunne lage hente ut dataverdiene ifra API.
 <br/>
 Man må lage et Database.
